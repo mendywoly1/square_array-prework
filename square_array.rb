@@ -1,4 +1,6 @@
 def square_array(array)
   # your code here
-  array.each do
+  sqaured_array = []
+  array.each do |square|
+    sqaured_array << square
 end
